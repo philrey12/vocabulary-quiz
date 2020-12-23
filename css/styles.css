@@ -4,6 +4,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 input,
 label,
 button {
