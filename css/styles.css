@@ -4,7 +4,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-header a:link {
+a:link {
     text-decoration: none;
 }
 
