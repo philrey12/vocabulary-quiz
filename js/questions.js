@@ -38,5 +38,53 @@ const questions = [
         option3: 'believable',
         option4: 'insulting',
         answer: '1'
+    },
+    {
+        word: 'decrepit',
+        option1: 'annoyed',
+        option2: 'bright',
+        option3: 'frail',
+        option4: 'wasteful',
+        answer: '3'
+    },
+    {
+        word: 'catalyst',
+        option1: 'behavior',
+        option2: 'miracle',
+        option3: 'cause',
+        option4: 'response',
+        answer: '3'
+    },
+    {
+        word: 'chary',
+        option1: 'innocent',
+        option2: 'cautious',
+        option3: 'eager',
+        option4: 'central',
+        answer: '2'
+    },
+    {
+        word: 'endure',
+        option1: 'overcome',
+        option2: 'tolerate',
+        option3: 'recognize',
+        option4: 'anticipate',
+        answer: '2'
+    },
+    {
+        word: 'dearth',
+        option1: 'necessity',
+        option2: 'supply',
+        option3: 'luck',
+        option4: 'lack',
+        answer: '4'
     }
+    // {
+    //     word: '',
+    //     option1: '',
+    //     option2: '',
+    //     option3: '',
+    //     option4: '',
+    //     answer: ''
+    // }
 ];
