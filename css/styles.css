@@ -4,8 +4,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-a:link {
+header a,
+header a:hover {
     text-decoration: none;
+    color: #0275d8;
 }
 
 input,
