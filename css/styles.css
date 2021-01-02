@@ -3,13 +3,11 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-
 header a,
 header a:hover {
     text-decoration: none;
     color: #0275d8;
 }
-
 input,
 label,
 button {
